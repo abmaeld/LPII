@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BallDemo
+comment0.text=\r\n\ Class\ BallDemo\ -\ provides\ a\ demonstration\ of\ the\r\n\ BouncingBall\ and\ Canvas\ classes.\ \r\n\r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2010.11.30\r\n
+comment1.params=
+comment1.target=BallDemo()
+comment1.text=\r\n\ Create\ a\ BallDemo\ object.\r\n\ Creates\ a\ fresh\ canvas\ and\ makes\ it\ visible.\r\n
+comment2.params=
+comment2.target=void\ bounce()
+comment3.params=
+comment3.target=void\ drawFrame()
+comment3.text=\r\n\ \ Method\ drawFrame()\ \u00E9\ um\ m\u00E9todo\ para\ desenhar\ uma\ moldura\ com\ valores\ espec\u00EDficos\ de\ padding\ relativos\ a\ um\ objeto\ Canvas\ da\ classe\ BallDemo;\r\n\ \ @see\ Canvas.java\r\n\ \ @param\ void;\r\n\ \ @return\ void;\r\n\ \ @autor\ Abmael\ Dantas\r\n
+numComments=4
