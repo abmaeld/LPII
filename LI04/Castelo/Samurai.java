@@ -1,5 +1,5 @@
 
-public class Samurai extends Character{
+public class Samurai extends Minion {
 
 	public Samurai(int health, int strength, int resistence, double crit) {
 

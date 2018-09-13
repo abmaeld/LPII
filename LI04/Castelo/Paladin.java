@@ -1,5 +1,5 @@
 
-public class Paladin extends Character{
+public class Paladin extends Minion {
 
 	public Paladin(int health, int strength, int resistence, double crit) {
 
